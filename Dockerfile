@@ -1,1 +1,1 @@
-FROM jocatalin/kubernetes-bootcamp:v2
+FROM yesbobo/python-ubuntu:3.8.2
