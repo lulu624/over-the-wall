@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.16.12
+FROM quay.io/brancz/kube-rbac-proxy:v0.6.0
