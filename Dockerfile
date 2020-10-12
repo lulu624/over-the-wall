@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus
+FROM k8s.gcr.io/hpa-example
