@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer:1.8.11
+FROM quay.io/external_storage/nfs-client-provisioner:latest
