@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/nfs-client-provisioner:latest
+FROM docker.io/jettech/kube-webhook-certgen:v1.2.2
