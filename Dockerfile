@@ -1,1 +1,1 @@
-FROM docker.io/jettech/kube-webhook-certgen:v1.2.2
+FROM jenkins:2.46.3-alpine
