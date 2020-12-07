@@ -1,1 +1,1 @@
-FROM jenkins:2.46.3-alpine
+FROM jenkins:2.249.1
