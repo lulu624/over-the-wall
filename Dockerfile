@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.43.0
+FROM quay.io/fluentd_elasticsearch/elasticsearch:v6.5.4
