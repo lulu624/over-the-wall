@@ -1,1 +1,1 @@
-FROM quay.io/fluentd_elasticsearch/fluentd:v2.5.2
+FROM docker.elastic.co/beats/filebeat:7.10.2
