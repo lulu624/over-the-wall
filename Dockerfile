@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/filebeat:7.10.2
+FROM k8s.gcr.io/hpa-example
