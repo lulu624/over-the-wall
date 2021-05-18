@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/hpa-example
+FROM quay.io/fluentd_elasticsearch/fluentd:v3.0.2
