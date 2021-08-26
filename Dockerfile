@@ -1,1 +1,1 @@
-FROM quay.io/argoproj/argocd:v2.0.5
+FROM quay.io/external_storage/cephfs-provisioner:latest
