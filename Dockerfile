@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/cephfs-provisioner:latest
+FROM quay.io/kiali/kiali:v1.29
