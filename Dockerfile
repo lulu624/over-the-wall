@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server-amd64:v0.3.6
+FROM docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
