@@ -1,1 +1,1 @@
-FROM docker.io/rancher/mirrored-flannelcni-flannel:v0.20.2
+FROM registry.k8s.io/ingress-nginx/controller:v1.4.0
