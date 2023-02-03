@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.3.0
+FROM objectscale/rsyslog:3.9.0.0-1569.83e26ae3
