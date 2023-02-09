@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.19.0@sha256:4d1e4e013bc5b0ab9259550c5d165130d141130db1048b0804a0524bf1d284f3
