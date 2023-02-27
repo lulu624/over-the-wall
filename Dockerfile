@@ -1,1 +1,1 @@
-FROM node:18.13-alpine3.16
+FROM docker.io/lachlanevenson/k8s-helm:v3.3.4
