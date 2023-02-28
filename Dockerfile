@@ -1,1 +1,1 @@
-FROM gradle:6.7.1-jdk8-openj9
+FROM jenkins/jenkins:2.392
