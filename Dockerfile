@@ -1,1 +1,1 @@
-FROM jenkins/jnlp-slave:latest
+FROM  jenkins/jnlp-slave:latest-jdk11
