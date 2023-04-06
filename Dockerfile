@@ -1,1 +1,1 @@
-FROM  jenkins/jnlp-slave:latest-jdk11
+FROM  prom/prometheus:v2.36.2
