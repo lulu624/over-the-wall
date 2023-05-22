@@ -1,1 +1,1 @@
-FROM  rook/ceph:v1.9.13
+FROM  apacherocketmq/rocketmq-dashboard:1.0.0
