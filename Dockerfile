@@ -1,1 +1,1 @@
-FROM  apacherocketmq/rocketmq-dashboard:1.0.0
+FROM  verdaccio/verdaccio:5.24
