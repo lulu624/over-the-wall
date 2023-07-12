@@ -1,1 +1,1 @@
-FROM  verdaccio/verdaccio:5.24
+FROM  rackspacedot/python37
