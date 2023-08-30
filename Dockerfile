@@ -1,1 +1,1 @@
-FROM  rackspacedot/python37
+FROM  bytebase/bytebase:2.6.0
