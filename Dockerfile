@@ -1,1 +1,1 @@
-FROM  bytebase/bytebase:2.6.0
+FROM nacos/nacos-server:1.4.2
