@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:1.4.2
+FROM quay.io/prometheuscommunity/elasticsearch-exporter:v1.6.0
