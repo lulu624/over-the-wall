@@ -1,1 +1,1 @@
-FROM quay.io/prometheuscommunity/elasticsearch-exporter:v1.6.0
+FROM grafana/loki:2.6.1
