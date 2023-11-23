@@ -1,1 +1,1 @@
-FROM feisky/app:iowait
+FROM kibana:7.17.6
