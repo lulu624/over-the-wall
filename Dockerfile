@@ -1,1 +1,1 @@
-FROM kibana:7.17.6
+FROM elastic/filebeat:7.16.3
