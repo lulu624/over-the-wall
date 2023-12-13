@@ -1,1 +1,1 @@
-FROM elastic/filebeat:7.16.3
+FROM fluentd:v1.16.0-1.0
