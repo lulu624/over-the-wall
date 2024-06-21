@@ -1,1 +1,1 @@
-FROM elastic/filebeat:7.17.6
+FROM quay.io/galexrt/dellhw_exporter
