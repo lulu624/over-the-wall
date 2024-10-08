@@ -1,1 +1,1 @@
-FROM quay.io/galexrt/dellhw_exporter:v1.13.12
+FROM cnych/dummylogs:latest
