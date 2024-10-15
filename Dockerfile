@@ -1,1 +1,1 @@
-FROM linuxserver/blender
+FROM linkease/webvirtcloud:0.3.6
