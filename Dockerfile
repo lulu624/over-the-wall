@@ -1,1 +1,1 @@
-FROM linkease/webvirtcloud:0.3.6
+FROM minio/minio:latest
