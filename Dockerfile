@@ -1,1 +1,1 @@
-FROM librenms/librenms:latest
+FROM elasticsearch:7.17.10
