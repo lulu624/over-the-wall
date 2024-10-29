@@ -1,1 +1,1 @@
-FROM kibana:7.17.9
+FROM docker.io/jettech/kube-webhook-certgen:v1.2.2
