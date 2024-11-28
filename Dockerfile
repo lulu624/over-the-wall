@@ -1,1 +1,1 @@
-FROM centos:latest
+FROM FROM centos1:latest
