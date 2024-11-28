@@ -1,1 +1,1 @@
-FROM librenms/librenms:24.9.1
+FROM nginx:latest
