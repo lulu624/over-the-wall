@@ -1,1 +1,1 @@
-FROM docker.io/jettech/kube-webhook-certgen:v1.2.2
+FROM librenms/librenms:24.9.1
