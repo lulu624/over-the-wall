@@ -1,1 +1,1 @@
-FROM nginx:latest
+FROM mysql:5.7
