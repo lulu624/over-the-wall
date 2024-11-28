@@ -1,1 +1,1 @@
-FROM centos1:latest
+FROM nginx:latest
