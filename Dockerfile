@@ -1,1 +1,1 @@
-FROM docker:20.10.8
+FROM alpine/git:2.45.2
