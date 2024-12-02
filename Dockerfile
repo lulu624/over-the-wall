@@ -1,1 +1,1 @@
-FROM docker pull docker:20.10.8
+FROM docker:20.10.8
