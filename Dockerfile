@@ -1,1 +1,1 @@
-FROM gradle:6.7.1-jdk11-openj9
+FROM docker pull docker:19.03.9
