@@ -1,1 +1,1 @@
-FROM sunnywang/redis-tools-ubuntu:v0.5.1
+FROM gradle:6.7.1-jdk8
