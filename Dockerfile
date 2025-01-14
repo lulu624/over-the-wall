@@ -1,1 +1,1 @@
-FROM ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.66.0@sha256:577a91ecb0ee529bd1a62c35ef1c47e1cd021cb017e6d528b3a6471250abb9c1
+FROM ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.66.0@sha256:ec7fd90de73d06b0146a8d469b9186bf3317dfa2ef7922283caf24c69e6576f7
