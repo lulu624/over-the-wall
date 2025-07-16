@@ -1,1 +1,1 @@
-FROM apache/hertzbeat
+FROM guacamole/guacamole
